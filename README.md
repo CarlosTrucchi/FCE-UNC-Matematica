@@ -1,6 +1,3 @@
-Aquí tienes una redacción completa para el archivo README.md, basada en los detalles que proporcionaste.
-
----
 
 ### Cuestionario de Repaso: Matemática II 📚
 
