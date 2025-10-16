@@ -1,7 +1,7 @@
 
-### Cuestionario de Repaso: Matemática II 📚
+### Programa: Matemática II 📚
 
-Este es un cuestionario interactivo diseñado para estudiantes de la **Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba**. Su objetivo es servir como herramienta de estudio y repaso de los contenidos del programa oficial de la materia **Matemática II**.
+Es una presentación del diseñado para estudiantes de la **Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba**. Su objetivo es servir como herramienta de estudio y repaso de los contenidos del programa oficial de la materia **Matemática II**.
 
 ---
 
@@ -12,12 +12,15 @@ El quiz abarca los conceptos clave de las primeras tres unidades del programa:
 * **Unidad 1:** Límites y Continuidad de una Función.
 * **Unidad 2:** Derivadas.
 * **Unidad 3:** Formas Indeterminadas y Teoremas de Derivación.
-
+* **Unidad 4:** Análisis de Funciones de una variable independiente.
+* **Unidad 5:** Análisis de Funciones de dos variables independientes.
+* **Unidad 6:** Integrales.
+* **Unidad 7:** Sucesiones y Series.
 ---
 
 ### Metodología de Estudio 🚀
 
-El cuestionario se sustenta en el **material teórico de la cátedra de Matemática II** de la comisión a cargo del **Profesor Carlos Trucchi**. Cada pregunta ofrece una justificación detallada para reforzar el aprendizaje, permitiendo al estudiante comprender los conceptos detrás de cada respuesta correcta.
+Los cuestionarios se sustentan en el **material teórico de la cátedra de Matemática II** de la comisión a cargo del **Profesor Carlos Trucchi**. Cada pregunta ofrece una justificación detallada para reforzar el aprendizaje, permitiendo al estudiante comprender los conceptos detrás de cada respuesta correcta.
 
 ---
 
